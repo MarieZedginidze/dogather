@@ -1,12 +1,12 @@
 
-# HTML and CSS Style Guides
+# HTML and CSS Style Guide
 
 - HTML5 attributes can start with data- (data-quantity, data-price)
 
 - CSS uses hyphens in property-names (font-size)
 
 
-# JavaScript Style Guides
+# JavaScript Style Guide
 
 ## Variable Names
 
